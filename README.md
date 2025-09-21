@@ -13,3 +13,7 @@ This script is written in Python and is not encrypted
 ``
 
 `Designed and built by: EPS`
+``
+``
+``
+![](https://github.com/Cyber-EPS/Einsta/blob/main/Screenshot_2025-09-21_09_23_14.png?raw=true)
